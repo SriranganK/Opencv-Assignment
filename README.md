@@ -1,2 +1,2 @@
-# Opencv Rice counter
+# Opencv Rice counter Using Python 
  
